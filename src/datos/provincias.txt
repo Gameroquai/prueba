@@ -1,0 +1,52 @@
+PVC,1,Álava,alava,ALV,1
+VAL,2,Castellón,castellon,CAS,12
+CYL,3,León,leon,LEO,24
+CYL,4,Salamanca,salamanca,SAL,37
+CLM,5,Albacete,albacete,ABC,2
+CEU,6,Ceuta,ceuta,CEU,51
+CAT,7,Lleida,lleida,LLE,25
+CYL,8,Segovia,segovia,SGV,40
+VAL,9,Alicante,alicante,ALA,3
+CLM,10,Ciudad Real,ciudad-real,CRE,13
+GAL,11,Lugo,lugo,LUG,27
+AND,12,Sevilla,sevilla,SVL,41
+AND,13,Almería,almeria,ALM,4
+AND,14,Córdoba,cordoba,CBA,14
+MAD,15,Madrid,madrid,MAD,28
+CYL,16,Soria,soria,SOR,42
+AST,17,Asturias,asturias,AST,33
+GAL,18,A Coruña,coruna,LCO,15
+AND,19,Málaga,malaga,MAL,29
+CAT,20,Tarragona,tarragona,TRN,43
+CYL,21,Ávila,avila,AVL,5
+CLM,22,Cuenca,cuenca,CNC,16
+MEL,23,Melilla,melilla,MEL,52
+CAN,24,S.C. Tenerife,tenerife,SCT,38
+EXT,25,Badajoz,badajoz,BDJ,6
+CAT,26,Girona,girona,GIR,17
+MUR,27,Murcia,murcia,MUR,30
+ARA,28,Teruel,teruel,TER,44
+BAL,29,Baleares,baleares,BAL,7
+AND,30,Granada,granada,GND,18
+NVR,31,Navarra,navarra,NVR,31
+CLM,32,Toledo,toledo,TOL,45
+CAT,33,Barcelona,barcelona,BCN,8
+CLM,34,Guadalajara,guadalajara,GLJ,19
+GAL,35,Ourense,ourense,OUR,32
+VAL,36,Valencia,valencia,VAL,46
+CYL,37,Burgos,burgos,BRG,9
+PVC,38,Guipúzcoa,guipuzcoa,GPZ,20
+CYL,39,Palencia,palencia,PAL,34
+CYL,40,Valladolid,valladolid,VLL,47
+EXT,41,Cáceres,caceres,CAC,10
+AND,42,Huelva,huelva,HLV,21
+CAN,43,Las Palmas,palmas,LPA,35
+PVC,44,Vizcaya,vizcaya,VZC,48
+AND,45,Cádiz,cadiz,CDZ,11
+ARA,46,Huesca,huesca,HSC,21
+GAL,47,Pontevedra,pontevedra,PNV,36
+CYL,48,Zamora,zamora,ZAM,49
+CTB,49,Cantabria,cantabria,CTB,39
+AND,50,Jaén,jaen,JAE,23
+LRJ,51,La Rioja,rioja,LRJ,26
+ARA,52,Zaragoza,zaragoza,ZAR,50

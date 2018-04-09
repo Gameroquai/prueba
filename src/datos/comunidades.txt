@@ -1,0 +1,19 @@
+Canarias,CAN
+Illes Balears,BAL
+Galicia,GAL
+La Rioja,LRJ
+Principado de Asturias,AST
+Cantabria,CTB
+País Vasco,PVC
+Comunidad Foral de Navarra,NVR
+Aragón,ARA
+Cataluña,CAT
+Castilla y León,CYL
+Comunidad de Madrid,MAD
+Comunitat Valenciana,VAL
+Región de Murcia,MUR
+Castilla La Mancha,CLM
+Extremadura,EXT
+Andalucía,AND
+Ciudad de Ceuta,CEU
+Ciudad de Melilla,MEL
